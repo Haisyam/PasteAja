@@ -46,6 +46,7 @@ export default function OpengraphImage() {
           >
             <div
               style={{
+                display: "flex",
                 width: 28,
                 height: 34,
                 borderRadius: 6,

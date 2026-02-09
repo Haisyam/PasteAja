@@ -38,6 +38,7 @@ export default function TwitterImage() {
           >
             <div
               style={{
+                display: "flex",
                 width: 24,
                 height: 30,
                 borderRadius: 6,
