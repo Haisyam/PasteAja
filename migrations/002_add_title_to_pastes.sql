@@ -1,1 +1,0 @@
-ALTER TABLE pastes ADD COLUMN title TEXT NULL;
